@@ -12,6 +12,7 @@ import java.util.List;
 public class UserController {
    /* private List<User> listUser= Collections.synchronizedList(new ArrayList<User>());*/
     @Autowired
+    //nihao
     private UserService userService;
 
     /**
